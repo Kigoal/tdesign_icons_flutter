@@ -20,4 +20,4 @@ flutter:
   fonts:
     - family: TdIcons
       fonts:
-        - asset: assets/td_icons.ttf
+        - asset: fonts/td_icons.ttf

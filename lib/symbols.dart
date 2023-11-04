@@ -7,6 +7,7 @@ class _TdIconsData extends IconData {
   const _TdIconsData(super.codePoint)
       : super(
           fontFamily: 'TdIcons',
+          fontPackage: 'tdesign_icons_flutter',
         );
 }
 
