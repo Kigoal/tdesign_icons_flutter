@@ -1,0 +1,23 @@
+name: tdesign_icons_flutter
+description: A new Flutter package project.
+version: 1.0.0
+homepage:
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  fonts:
+    - family: TdIcons
+      fonts:
+        - asset: assets/td_icons.ttf
